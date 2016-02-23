@@ -1,5 +1,6 @@
-import time
-import random
+print "test"
+    import ../time()
+    import ../random.random()
 
 print "Welcome to Russian Roulette!!"
 time.sleep(2)
