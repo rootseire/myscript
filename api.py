@@ -1,7 +1,7 @@
 #MESSAGE
 import urllib2
 import json
-locu_api = '747dcc58845f36c6a49ab9ff3e8c42a92c2b1a7f';
+locu_api = '';
 
 
 
